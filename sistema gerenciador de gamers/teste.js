@@ -1,0 +1,1 @@
+console.log("iniciando o meu primeiro projeto de JavaScript")
